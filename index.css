@@ -1,0 +1,56 @@
+#login-area{
+ padding: 100px;
+ color: aliceblue;
+}
+.Submit-area{
+    color: aliceblue;
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 25px rgb(27, 213, 238) ;
+}
+body{
+  background:linear-gradient(to right ,rgb(18, 80, 64) ,rgb(1, 22, 19));
+}
+#transaction-area{
+    display: none;
+    color: aliceblue;
+    margin-top: 200px;
+    text-align: center;
+    
+}
+.deposite{
+    background: linear-gradient(to left,rgb(209, 17, 216) ,black);
+    margin: 0px 50px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.withdraw{
+    background: linear-gradient(to bottom,rgb(145, 226, 13) ,black);
+    margin: 0px 50px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.balance{
+    background: linear-gradient(to right,rgb(176, 17, 182) ,black);
+    margin: 0px 50px;
+    padding: 20px;
+    border-radius: 10px;
+}   
+
+.box{
+    box-shadow: 10px 10px 25px orange;
+    margin-top: 50px;
+    text-align: left;
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(to right, rgb(76, 13, 192), rgb(226, 5, 226));
+}
+.Withdraw2{
+    box-shadow: 10px 10px 15px orange;
+    margin-top: 50px;
+    text-align: left;
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(to right, rgb(106, 19, 187), rgb(218, 7, 200));
+}
